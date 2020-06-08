@@ -1,6 +1,7 @@
 /*
 * First commit from Ajit Kumar
 * Second commit from Aditi Rathod
+*Thrid commit from Muskan Goyal
 */
 package com.techement;
 
@@ -16,6 +17,6 @@ public class ArrayOperation{
       }
       //TODO: Add feature to print  sum
    }
-   system.out.println(sum);
+   system.out.println("The Sum of array elements is:\n"+sum);
 
 }
