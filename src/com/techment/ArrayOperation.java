@@ -16,7 +16,8 @@ public class ArrayOperation{
          sum=sum+array[i];
       }
       //TODO: Add feature to print  sum
+       system.out.println("The Sum of array elements is:\n"+sum);
    }
-   system.out.println("The Sum of array elements is:\n"+sum);
+   
 
 }
