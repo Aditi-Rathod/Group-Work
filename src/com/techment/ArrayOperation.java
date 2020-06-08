@@ -14,7 +14,8 @@ public class ArrayOperation{
       {
          sum=sum+array[i];
       }
-      //TODO: Ard feature to print array and sum
+      //TODO: Add feature to print  sum
    }
+   system.out.println(sum);
 
 }
