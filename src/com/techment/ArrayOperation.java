@@ -6,10 +6,14 @@ package com.techement;
 public class ArrayOperation{
 
    public static void main(String args[]){
-      int array[] = {3,4,5,6};
+      int array[] = {3,4,5,6},i,sum=0;
       
       //TODO: Add feature to add array
-      //TODO: Ard feature to print array
+      for(i=0;i<=4;i++)
+      {
+         sum=sum+array[i];
+      }
+      //TODO: Ard feature to print array and sum
    }
 
 }
